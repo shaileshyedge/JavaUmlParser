@@ -1,0 +1,8 @@
+
+public enum RelationMaster 
+{
+  GENERALIZATION,
+  REALIZATION,
+  ASSOCIATION,
+  DEPENDENCY
+}
